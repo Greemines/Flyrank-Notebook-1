@@ -53,3 +53,5 @@ in Colab, straight from your repo):
 | `notebooks/capstone.ipynb` | ML-11 (the paper mirrors it) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Greemines/Flyrank-Notebook-1/blob/main/work/notebooks/capstone.ipynb?flush_cache=true) | ☐ |
 
 When your paper is deployed, put its exact URL in `../submission/paper_url.txt` (one line).
+
+#updated with output
